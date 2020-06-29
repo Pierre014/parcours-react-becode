@@ -1,5 +1,5 @@
 body{
-  background-color: #16232E;
+  background-color: #235060;
   color: white;
   text-align: center;
 }
@@ -11,4 +11,12 @@ a{
 
 .Logo{
   text-align: center;
+}
+
+.parag{
+  font-size: 12px;
+}
+
+#presentation{
+  font-size: 24px;
 }
